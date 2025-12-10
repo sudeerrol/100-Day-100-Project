@@ -1,1 +1,9 @@
+# personalized greeting program
 
+name = input("What's your name?")
+age = int (input("How old are you?"))
+color = input("What's your favourite color?")
+
+print(f"Hello {name}")
+print (f"You are {age} years old")
+print(f"{color} is beautiful color")
