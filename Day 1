@@ -1,3 +1,5 @@
+# welcome message
+
 name=input("What's your name?")
 hobby=input("What's your favourite hobby?")
 
