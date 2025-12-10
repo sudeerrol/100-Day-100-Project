@@ -1,1 +1,7 @@
+name=input("What's your name?")
+hobby=input("What's your favourite hobby?")
 
+print("\n---Welcome Message---")
+print(f"Hello {name}")
+print(f"Welcome to the world of Pyhton Programming")
+print(f"It's great to {hobby}")
